@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         AlphaBtn = (Button)findViewById(R.id.Alpha);
         TranslateBtn = (Button)findViewById(R.id.Translate);
         RotateBtn = (Button)findViewById(R.id.Rotate);
