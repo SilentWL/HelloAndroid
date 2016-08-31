@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="mp3List_update">更新列表</string>
+    <string name="mp3List_about">关于</string>
+    <string name="mp3List_List">MP3列表</string>
+
+</resources>

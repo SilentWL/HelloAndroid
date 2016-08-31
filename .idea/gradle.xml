@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Program Files\AndroidStudio\gradle\gradle-2.10" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Application" />
+            <option value="$PROJECT_DIR$/Application1" />
+            <option value="$PROJECT_DIR$/Application2" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/baidumap" />
+            <option value="$PROJECT_DIR$/bluetooth01" />
+            <option value="$PROJECT_DIR$/calc" />
+            <option value="$PROJECT_DIR$/car" />
+            <option value="$PROJECT_DIR$/carble" />
+            <option value="$PROJECT_DIR$/contentprovider" />
+            <option value="$PROJECT_DIR$/dowload" />
+            <option value="$PROJECT_DIR$/gesture" />
+            <option value="$PROJECT_DIR$/handler" />
+            <option value="$PROJECT_DIR$/honeycombGallery" />
+            <option value="$PROJECT_DIR$/intent" />
+            <option value="$PROJECT_DIR$/json" />
+            <option value="$PROJECT_DIR$/linerlayout" />
+            <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/location" />
+            <option value="$PROJECT_DIR$/location01" />
+            <option value="$PROJECT_DIR$/mediaplayer" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/paint" />
+            <option value="$PROJECT_DIR$/paint2" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/raidobutton" />
+            <option value="$PROJECT_DIR$/servicetest" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/sqlite" />
+            <option value="$PROJECT_DIR$/tencent_weibo" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/testreceiver" />
+            <option value="$PROJECT_DIR$/testreceiver2" />
+            <option value="$PROJECT_DIR$/updateprogressbar" />
+            <option value="$PROJECT_DIR$/wechatrob" />
+            <option value="$PROJECT_DIR$/widgettest" />
+            <option value="$PROJECT_DIR$/wifi" />
+            <option value="$PROJECT_DIR$/xml" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Application" />
+            <option value="$PROJECT_DIR$/Application1" />
+            <option value="$PROJECT_DIR$/Application2" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/baidumap" />
+            <option value="$PROJECT_DIR$/bluetooth01" />
+            <option value="$PROJECT_DIR$/calc" />
+            <option value="$PROJECT_DIR$/car" />
+            <option value="$PROJECT_DIR$/carble" />
+            <option value="$PROJECT_DIR$/contentprovider" />
+            <option value="$PROJECT_DIR$/dowload" />
+            <option value="$PROJECT_DIR$/gesture" />
+            <option value="$PROJECT_DIR$/handler" />
+            <option value="$PROJECT_DIR$/honeycombGallery" />
+            <option value="$PROJECT_DIR$/intent" />
+            <option value="$PROJECT_DIR$/json" />
+            <option value="$PROJECT_DIR$/linerlayout" />
+            <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/location" />
+            <option value="$PROJECT_DIR$/location01" />
+            <option value="$PROJECT_DIR$/mediaplayer" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/paint" />
+            <option value="$PROJECT_DIR$/paint2" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/raidobutton" />
+            <option value="$PROJECT_DIR$/servicetest" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/sqlite" />
+            <option value="$PROJECT_DIR$/tencent_weibo" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/testreceiver" />
+            <option value="$PROJECT_DIR$/testreceiver2" />
+            <option value="$PROJECT_DIR$/updateprogressbar" />
+            <option value="$PROJECT_DIR$/wechatrob" />
+            <option value="$PROJECT_DIR$/widgettest" />
+            <option value="$PROJECT_DIR$/wifi" />
+            <option value="$PROJECT_DIR$/xml" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

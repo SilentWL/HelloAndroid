@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application1/Application1.iml" filepath="$PROJECT_DIR$/Application1/Application1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application2/Application2.iml" filepath="$PROJECT_DIR$/Application2/Application2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HellowAndroid.iml" filepath="$PROJECT_DIR$/HellowAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidumap/baidumap.iml" filepath="$PROJECT_DIR$/baidumap/baidumap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetooth01/bluetooth01.iml" filepath="$PROJECT_DIR$/bluetooth01/bluetooth01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calc/calc.iml" filepath="$PROJECT_DIR$/calc/calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car/car.iml" filepath="$PROJECT_DIR$/car/car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carble/carble.iml" filepath="$PROJECT_DIR$/carble/carble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dowload/dowload.iml" filepath="$PROJECT_DIR$/dowload/dowload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesture/gesture.iml" filepath="$PROJECT_DIR$/gesture/gesture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler/handler.iml" filepath="$PROJECT_DIR$/handler/handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/honeycombGallery/honeycombGallery.iml" filepath="$PROJECT_DIR$/honeycombGallery/honeycombGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json/json.iml" filepath="$PROJECT_DIR$/json/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linerlayout/linerlayout.iml" filepath="$PROJECT_DIR$/linerlayout/linerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location/location.iml" filepath="$PROJECT_DIR$/location/location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location01/location01.iml" filepath="$PROJECT_DIR$/location01/location01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/mediaplayer/mediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paint/paint.iml" filepath="$PROJECT_DIR$/paint/paint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paint2/paint2.iml" filepath="$PROJECT_DIR$/paint2/paint2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar/progressbar.iml" filepath="$PROJECT_DIR$/progressbar/progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raidobutton/raidobutton.iml" filepath="$PROJECT_DIR$/raidobutton/raidobutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicetest/servicetest.iml" filepath="$PROJECT_DIR$/servicetest/servicetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tencent_weibo/tencent_weibo.iml" filepath="$PROJECT_DIR$/tencent_weibo/tencent_weibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testreceiver/testreceiver.iml" filepath="$PROJECT_DIR$/testreceiver/testreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testreceiver2/testreceiver2.iml" filepath="$PROJECT_DIR$/testreceiver2/testreceiver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updateprogressbar/updateprogressbar.iml" filepath="$PROJECT_DIR$/updateprogressbar/updateprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatrob/wechatrob.iml" filepath="$PROJECT_DIR$/wechatrob/wechatrob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widgettest/widgettest.iml" filepath="$PROJECT_DIR$/widgettest/widgettest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifi/wifi.iml" filepath="$PROJECT_DIR$/wifi/wifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
+    </modules>
+  </component>
+</project>

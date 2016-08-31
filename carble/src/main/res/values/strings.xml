@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarBLE</string>
+    <string name="ble_not_supported">不支持BLE</string>
+    <string name="error_bluetooth_not_supported">不支持蓝牙</string>
+    <string name="unknown_service">未知服务</string>
+    <string name="unknown_characteristic">未知字段</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestReceiver2</string>
+    <string name="Register">注册</string>
+    <string name="Unregister">解除注册</string>
+</resources>

@@ -1,0 +1,39 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* big_droid.JPG => big_droid.jpg
+* blue_balloon.JPG => blue_balloon.jpg
+* blue_bike.JPG => blue_bike.jpg
+* chrome_wheel.JPG => chrome_wheel.jpg
+* cupcake.JPG => cupcake.jpg
+* donut.JPG => donut.jpg
+* AndroidManifest.xml => honeycombGallery\src\main\AndroidManifest.xml
+* res\ => honeycombGallery\src\main\res\
+* src\ => honeycombGallery\src\main\java\
+* eclair.JPG => eclair.jpg
+* froyo.JPG => froyo.jpg
+* green_balloon.JPG => green_balloon.jpg
+* punk_droid.JPG => punk_droid.jpg
+* rainbow_bike.JPG => rainbow_bike.jpg
+* red_balloon.JPG => red_balloon.jpg
+* stargazer_droid.JPG => stargazer_droid.jpg
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

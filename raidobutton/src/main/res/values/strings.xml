@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RaidoButton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="female">男</string>
+    <string name="male">女</string>
+    <string name="sex">性别</string>
+
+</resources>

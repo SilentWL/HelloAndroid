@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="1000000" android:versionName="1.0.0" android:installLocation="auto" package="com.example.administrator.car"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:label="@string/app_name" android:icon="@drawable/icon" android:hardwareAccelerated="false">
+        <activity android:theme="@style/Theme.AppCompat" android:label="@string/app_name" android:name=".MainActivity" android:launchMode="singleTask" android:screenOrientation="user" android:configChanges="keyboardHidden|orientation|screenSize" android:windowSoftInputMode="stateHidden|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="namespaceVersion" android:value="17.0" />
+            <meta-data android:name="aspectRatio" android:value="landscape" />
+            <meta-data android:name="autoOrients" android:value="false" />
+            <meta-data android:name="fullScreen" android:value="true" />
+            <meta-data android:name="uniqueappversionid" android:value="67bd83e6-6ed3-49c2-8268-a220c651098f" />
+            <meta-data android:name="initialcontent" android:value="FeberController.swf" />
+            <meta-data android:name="containsVideo" android:value="false" />
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="true" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="true" />
+</manifest>
